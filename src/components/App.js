@@ -141,6 +141,8 @@ class App extends Component {
           you don't have any.&nbsp;
           <a href="https://faucet.rinkeby.io/">Rinkeby Faucet</a>
         </AlertBanner>
+        <h1>DecentraBox</h1>
+        <h3>Free Cloud Storage Forever</h3>
         {this.state.loading ? (
           <div id="loader" className="text-center mt-5">
             <p className="text-white">Loading...</p>

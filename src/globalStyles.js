@@ -10,6 +10,16 @@ body {
   font-family: 'Montserrat', sans-serif;
   background: #16151f;
 }
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  padding-top: 50px;
+}
+h3{
+  color: #ffffff;
+  text-align: center;
+}
 `;
 
 export default GlobalStyle;
