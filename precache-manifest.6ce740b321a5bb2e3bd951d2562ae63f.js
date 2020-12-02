@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18ac67712322798004cf7800fe488b51",
+    "revision": "3898f37c5e434c3babcbe9056fe52bc3",
     "url": "/decentrabox/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/decentrabox/static/js/2.fcc83600.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "400a590aecee8f30af2e",
-    "url": "/decentrabox/static/js/main.57b8948d.chunk.js"
+    "revision": "9608b16a9cba415687c5",
+    "url": "/decentrabox/static/js/main.3eaa0d34.chunk.js"
   },
   {
     "revision": "4c99b22c62a2d0396ec4",

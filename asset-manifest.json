@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/decentrabox/static/js/main.57b8948d.chunk.js",
-    "main.js.map": "/decentrabox/static/js/main.57b8948d.chunk.js.map",
+    "main.js": "/decentrabox/static/js/main.3eaa0d34.chunk.js",
+    "main.js.map": "/decentrabox/static/js/main.3eaa0d34.chunk.js.map",
     "runtime-main.js": "/decentrabox/static/js/runtime-main.87f50aa5.js",
     "runtime-main.js.map": "/decentrabox/static/js/runtime-main.87f50aa5.js.map",
     "static/css/2.3cb1d0e3.chunk.css": "/decentrabox/static/css/2.3cb1d0e3.chunk.css",
     "static/js/2.fcc83600.chunk.js": "/decentrabox/static/js/2.fcc83600.chunk.js",
     "static/js/2.fcc83600.chunk.js.map": "/decentrabox/static/js/2.fcc83600.chunk.js.map",
     "index.html": "/decentrabox/index.html",
-    "precache-manifest.b214ea22f18a46574863ec2da7b33b4f.js": "/decentrabox/precache-manifest.b214ea22f18a46574863ec2da7b33b4f.js",
+    "precache-manifest.6ce740b321a5bb2e3bd951d2562ae63f.js": "/decentrabox/precache-manifest.6ce740b321a5bb2e3bd951d2562ae63f.js",
     "service-worker.js": "/decentrabox/service-worker.js",
     "static/css/2.3cb1d0e3.chunk.css.map": "/decentrabox/static/css/2.3cb1d0e3.chunk.css.map",
     "static/js/2.fcc83600.chunk.js.LICENSE.txt": "/decentrabox/static/js/2.fcc83600.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.87f50aa5.js",
     "static/css/2.3cb1d0e3.chunk.css",
     "static/js/2.fcc83600.chunk.js",
-    "static/js/main.57b8948d.chunk.js"
+    "static/js/main.3eaa0d34.chunk.js"
   ]
 }
